@@ -281,7 +281,7 @@ Row | Step | Description | Completed
 5 | 4-1 | 2nd Favorite emoji | 😳
 6 | 4-2 | Link to `commit #2 from Github Desktop` | [commit #2 from Github Desktop](https://github.com/matthewpearso/git-milestones/commits/main/README.md)
 7 | 5-1 | Full path to your working directory | /Users/matthewpearson/Desktop/Davidson Classes/git-milestones
-8 | 5-2 | Link to `commit #3 from CLI` |
+8 | 5-2 | Link to `commit #3 from CLI` | [commit #3 from CLI](https://github.com/matthewpearso/git-milestones/commits/main/README.md)
 9 | 6-1 | Link to `first-website` github.com repo page |
 10 | 7-1 | Link to `first-website` github.io "project site" |
 
